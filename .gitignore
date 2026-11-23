@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.work/
+inputs/
+/*.avi
+/*.mp4
+/serie_oleaje.csv
+/serie_oleaje.png
+/superficie_detectada.png
